@@ -16,6 +16,11 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 4) Train Random Forest models to predict temperature and PM2.5 and save the models.
 ## Program:
 ```
+Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
+Developed by:Sangeeth M
+RegisterNumber:212225100043
+```
+```
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
@@ -70,20 +75,10 @@ joblib.dump(model_temp, "temperature_model.pkl")
 joblib.dump(model_pm, "pm25_model.pkl")
 
 print("Models trained and saved successfully!")
-
 ```
-Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by:Sangeeth M
-RegisterNumber:25004402  
-
-```
-
 ## Output:
 
 <img width="1248" height="114" alt="image" src="https://github.com/user-attachments/assets/6e157f35-05f5-4372-964f-cea1a53d819e" />
-
-
-
 
 ## Result:
 The Random Forest model successfully predicted temperature, PM2.5 pollution, and solar radiation using weather sensor data with good accuracy. The system also generated next-step predictions and visual graphs comparing actual vs predicted values and showing feature importance.
