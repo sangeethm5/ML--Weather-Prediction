@@ -80,5 +80,14 @@ print("Models trained and saved successfully!")
 
 <img width="1248" height="114" alt="image" src="https://github.com/user-attachments/assets/6e157f35-05f5-4372-964f-cea1a53d819e" />
 
+<img width="1263" height="463" alt="image" src="https://github.com/user-attachments/assets/f0a843ff-68f5-4f0a-88d9-bd9410b37b0e" />
+
+<img width="1268" height="460" alt="image" src="https://github.com/user-attachments/assets/f2e40a47-6b00-451a-8656-db83dde4efbe" />
+
+<img width="1271" height="465" alt="image" src="https://github.com/user-attachments/assets/4fd5d06e-17c5-4213-bad7-da8551343c4c" />
+
+<img width="1246" height="96" alt="image" src="https://github.com/user-attachments/assets/76dbda06-915f-44fd-9505-6201d865feb2" />
+
+
 ## Result:
 The Random Forest model successfully predicted temperature, PM2.5 pollution, and solar radiation using weather sensor data with good accuracy. The system also generated next-step predictions and visual graphs comparing actual vs predicted values and showing feature importance.
